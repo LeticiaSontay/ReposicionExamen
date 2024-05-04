@@ -1,0 +1,47 @@
+commit b0b00760bb0b55822597813acf3fe90376ee39fb
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Sat May 4 15:47:46 2024 -0600
+
+    agregado conexion funcional
+
+commit ced690b17257806c9b1dd223c5e623c79209678b
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Sat May 4 15:21:25 2024 -0600
+
+    configuracion conexion
+
+commit 597535cd26515fe8c0887eac1b6b0ca95156b250
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Sat May 4 15:15:21 2024 -0600
+
+    agregado mantenimiento
+
+commit 1b5d2e9758199dfc2b0f14e452e2925a1bb8f695
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Sat May 4 14:52:26 2024 -0600
+
+    agregado pelicula
+
+commit 0fc75d0f76519cd79a1a6677631d645c027d558e
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Sat May 4 14:42:35 2024 -0600
+
+    Agregado vista
+
+commit 5325fc17dbae59c053285af8bf65b5c601d5eada
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Sat May 4 14:20:08 2024 -0600
+
+    base de datos
+
+commit 4efd1f144f52f8726ef9a94767a797091e6d0108
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Sat May 4 13:56:51 2024 -0600
+
+    inicio proyecto peliculas
+
+commit 5c3cdb5cec3fa30089b38a96e4d7cc8fea8efa04
+Author: Leticia <97976606+LeticiaSontay@users.noreply.github.com>
+Date:   Sat May 4 12:59:10 2024 -0600
+
+    Initial commit
